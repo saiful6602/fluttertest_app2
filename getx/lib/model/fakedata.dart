@@ -5,9 +5,9 @@ class FakeData {
     NameScreenParams(
       name: "John Doe",
       image:
-          "https://img.freepik.com/premium-vector/man-avatar-profile-picture-isolated-background-avatar-profile-picture-man_1293239-4841.jpg",
+          "https://www.shutterstock.com/shutterstock/photos/2427356853/display_1500/stock-vector-vector-of-cute-baby-panda-cartoon-sitting-in-grass-vector-illustration-2427356853.jpg",
       age: "20",
-      id: "1001",
+      id: "6602",
     ),
     NameScreenParams(
       name: "Jane Smith",
@@ -43,6 +43,37 @@ class FakeData {
           "https://static.vecteezy.com/system/resources/thumbnails/027/951/137/small_2x/stylish-spectacles-guy-3d-avatar-character-illustrations-png.png",
       age: "21",
       id: "3",
+    ),
+     NameScreenParams(
+      name: "John Doe",
+      image:
+          "https://www.shutterstock.com/shutterstock/photos/2427356853/display_1500/stock-vector-vector-of-cute-baby-panda-cartoon-sitting-in-grass-vector-illustration-2427356853.jpg",
+      age: "20",
+      id: "6602",
+    ), NameScreenParams(
+      name: "John Doe",
+      image:
+          "https://www.shutterstock.com/shutterstock/photos/2427356853/display_1500/stock-vector-vector-of-cute-baby-panda-cartoon-sitting-in-grass-vector-illustration-2427356853.jpg",
+      age: "20",
+      id: "6602",
+    ), NameScreenParams(
+      name: "John Doe",
+      image:
+          "https://www.shutterstock.com/shutterstock/photos/2427356853/display_1500/stock-vector-vector-of-cute-baby-panda-cartoon-sitting-in-grass-vector-illustration-2427356853.jpg",
+      age: "20",
+      id: "6602",
+    ), NameScreenParams(
+      name: "John Doe",
+      image:
+          "https://www.shutterstock.com/shutterstock/photos/2427356853/display_1500/stock-vector-vector-of-cute-baby-panda-cartoon-sitting-in-grass-vector-illustration-2427356853.jpg",
+      age: "20",
+      id: "6602",
+    ), NameScreenParams(
+      name: "John Doe",
+      image:
+          "https://www.shutterstock.com/shutterstock/photos/2427356853/display_1500/stock-vector-vector-of-cute-baby-panda-cartoon-sitting-in-grass-vector-illustration-2427356853.jpg",
+      age: "20",
+      id: "6602",
     ),
   ];
 }

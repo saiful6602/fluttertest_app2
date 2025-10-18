@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1068489883483",
+    "project_id": "testing-app-51812",
+    "storage_bucket": "testing-app-51812.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068489883483:android:d52a3bf47a3bdf6796e47e",
+        "android_client_info": {
+          "package_name": "com.example.islam_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068489883483-9soeshidtjntj0pnnthtcsedj8t88tsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.islam_app",
+            "certificate_hash": "7dce220aa5847d63d4dbfa9b619231e21ca58a50"
+          }
+        },
+        {
+          "client_id": "1068489883483-cpsi8rgh31b0m0qvn5qb9loor80r1ch0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTH5vmm-ORMVYC9bOYKhB18NSO-DevEIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068489883483-cpsi8rgh31b0m0qvn5qb9loor80r1ch0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
